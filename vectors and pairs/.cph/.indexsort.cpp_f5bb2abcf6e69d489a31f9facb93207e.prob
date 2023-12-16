@@ -1,0 +1,1 @@
+{"name":"Local: indexsort","url":"d:\\DSA\\vectors and pairs\\indexsort.cpp","tests":[{"id":1624381821586,"input":"","output":"3\n1\n9\n2\n0\n7\n6\n5\n8\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\vectors and pairs\\indexsort.cpp","group":"local","local":true}
